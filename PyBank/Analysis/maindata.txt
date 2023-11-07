@@ -1,5 +1,3 @@
 [total months: 86][Total: 22564198][average change: -8311.105882352942][      Date  Profit/Losses     shift     change
 79  Aug-16         951227 -910775.0  1862002.0][      Date  Profit/Losses     shift     change
-49  Feb-14        -946748  878810.0 -1825558.0][total months: 86][Total: 22564198][average change: -8311.105882352942][      Date  Profit/Losses     shift     change
-79  Aug-16         951227 -910775.0  1862002.0][      Date  Profit/Losses     shift     change
 49  Feb-14        -946748  878810.0 -1825558.0]

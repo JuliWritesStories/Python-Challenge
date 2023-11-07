@@ -1,0 +1,5 @@
+[total votes: 369711][                 Candidate   Votes
+0     Raymon Anthony Doane   11606
+1            Diana DeGette  272892
+2  Charles Casper Stockham   85213][Winner:        Candidate   Votes
+1  Diana DeGette  272892]
